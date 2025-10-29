@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Shokhida0710/bot/issues"
   },
-  "homepage": "https://github.com/Shokhida0710/bot#readme"
+  "homepage": "https://github.com/Shokhida0710/bot#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
